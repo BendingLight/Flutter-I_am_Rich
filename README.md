@@ -1,6 +1,15 @@
 # i_am_rich
 
-A new Flutter project.
+A Beginner level FLutter project to test Scaffold and Image widgets.
+
+Screenshots:
+
+
+![](images/sc_app.png)
+
+![](images/sc_recents.png)
+
+
 
 ## Getting Started
 
