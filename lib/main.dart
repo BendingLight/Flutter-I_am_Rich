@@ -15,7 +15,9 @@ class MyApp extends StatelessWidget{
             title: Text("I am Rich"),
             backgroundColor: Colors.blueGrey[900],
           ),
-          body: HomeScreen()
+          body: SafeArea(
+            child: HomeScreen() ,
+          ),
         ),
     );
   }
